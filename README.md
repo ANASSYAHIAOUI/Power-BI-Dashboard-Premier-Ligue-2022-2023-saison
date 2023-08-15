@@ -1,7 +1,9 @@
-# Power-BI-Dashboard-Premier-Ligue-2022-2023-saison
+
 # Data Analyst | Power BI Developer | Sports Analytics Enthusiast 🏆⚽
 
 Passionate about transforming raw data into actionable insights. Experienced in leveraging Power BI to visualize complex sports data, with a recent focus on the Premier League 2022/2023 season.
+
+![Dashboard Preview](./image.png)
 
 ## Project Highlight
 Designed and developed a comprehensive Power BI dashboard that presents real-time performance metrics of Premier League players. The interactive dashboard features:
